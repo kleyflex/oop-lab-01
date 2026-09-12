@@ -9,6 +9,6 @@ public class Flying implements MovementStrategy {
 
     @Override 
     public void move(String heroName, Point from, Point to) {
-        System.out.println(heroName + "летит из точки " + from + " в точку " + to);
+        System.out.println(heroName + " летит из точки " + from + " в точку " + to);
     }
 }

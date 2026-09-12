@@ -39,6 +39,4 @@ public class Hero {
     public Point getPosition() {
         return position;
     }
-
-
 }
